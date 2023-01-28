@@ -1,4 +1,4 @@
-# Dockeer Bitnami LEMP Boilerplate
+# Docker Bitnami LEMP Boilerplate
 A simplified yet refined Docker Compose workflow that sets up a LEMP network of containers for local PHP with MySQL (MariaDB) development.
 
 
